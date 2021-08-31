@@ -1,0 +1,30 @@
+.move-button {
+     background-image: resource("Icons/d_MoveTool@2x.png");
+ }
+
+.rotate-button {
+    background-image: resource("Icons/d_RotateTool@2x.png");
+}
+
+.scale-button {
+    background-image: resource("Icons/d_ScaleTool@2x.png");
+}
+
+.move-button:hover {
+    background-image: resource("Icons/d_MoveTool On@2x.png");
+}
+
+.rotate-button:hover {
+    background-image: resource("Icons/d_RotateTool On@2x.png");
+}
+
+.scale-button:hover {
+    background-image: resource("Icons/d_ScaleTool On@2x.png");
+}
+
+Button {
+     max-width: 32px;
+     max-height: 32px;
+     min-width: 32px;
+     min-height: 16px;
+ }
