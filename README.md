@@ -1,6 +1,14 @@
 <h1>Gizmo Extension Tools</h1>
 This repository hosts ideas for how we could potentially improve the Scene Gizmo readability.
 
+Current prototype:
+
+![image](https://user-images.githubusercontent.com/17855501/140769870-f657804b-115d-4a49-a333-985ccf1541a3.png)
+![image](https://user-images.githubusercontent.com/17855501/140769949-75f9b7fa-3363-413f-ab6c-fa06c2a99709.png)
+
+
+Documentation that follows is obsolete. If you'd like to toy around with that version, please checkout revision 10b740068e2d22ee7a880af5cc70960a2b6c7151.
+
 <h2>How to use</h2>
 * Either clone or download this repo as zip files.
 * Install package via Window > Package Manager > Plus Sign (top left) > Add package from disk...
