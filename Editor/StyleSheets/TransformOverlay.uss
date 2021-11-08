@@ -1,0 +1,32 @@
+.unity-transform-input-overlay-textfield {
+    border-color: black;
+    min-width: 50px;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.unity-transform-input-overlay-label {
+    background-color: rgba(51, 51, 51, 1);
+    margin-right: 0;
+    border-radius: 5px 0 0 5px;
+    min-width: 12px;
+    -unity-text-align: upper-center;
+}
+
+.unity-transform-input-overlay-label-x {
+    color: #FF6E40;
+}
+
+.unity-transform-input-overlay-label-y {
+    color: #B2FF59;
+}
+
+.unity-transform-input-overlay-label-z {
+    color: #80D8FF;
+}
+
+.unity-transform-input-overlay-inputfield {
+    background-color: rgba(85, 85, 85, 1);
+    border-radius: 0 5px 5px 0;
+    border-width: 0;
+}
